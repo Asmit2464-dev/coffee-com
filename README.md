@@ -3,7 +3,7 @@
 A luxury specialty coffee shop website built with **React**.
 
 ## 🔗 Live Demo
-[View Live] coffee-com-ten.vercel.app
+[View Live] [coffee-com-ten.vercel.app](https://coffee-com-ten.vercel.app/)
 
 ## 📸 Preview
 > A warm, editorial-style coffee shop site with animated hero, interactive menu, testimonials, and a responsive layout.
